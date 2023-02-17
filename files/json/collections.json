@@ -1,0 +1,108 @@
+{
+"collections":[
+{
+	"id": 1,
+	"title": "Way Kambas Maple",
+	"image": "img/collections/mapple-series/01.png",
+	"price":
+		{
+"value": "Rp 1.280.000"
+		},
+	"category": 1, 
+	"url": "https//google.com"
+},
+{
+	"id": 2,
+	"title": "Kaili",
+	"image": "img/collections/mapple-series/02.png",
+	"price":
+		{
+"value": "Rp 1.180.000"
+		},
+	"category": 1, 
+	"url": "https//google.com"
+},
+{
+	"id": 3,
+	"title": "Sunda",
+	"image": "img/collections/mapple-series/03.png",
+	"price":
+		{
+"value": "Rp 1.680.000"
+		},
+	"category": 1, 
+	"url": "https//google.com"
+},
+{
+	"id": 4,
+	"title": "Tomia Ebony",
+	"image": "img/collections/ebony-series/01.png",
+	"price":
+		{
+"oldValue": "Rp 1.280.000",
+"value": "Rp 960.000"
+
+		},
+	"category": 2, 
+	"url": "https//google.com"
+},
+{
+	"id": 5,
+	"title": "Mori",
+	"image": "img/collections/ebony-series/02.png",
+	"price":
+		{
+"value": "Rp 950.000"
+
+		},
+	"category": 2, 
+	"url": "https//google.com"
+},
+{
+	"id": 6,
+	"title": "Alor",
+	"image": "img/collections/ebony-series/03.png",
+	"price":
+		{
+"value": "Rp 1.170.000"
+
+		},
+	"category": 2, 
+	"url": "https//google.com"
+},
+{
+	"id": 7,
+	"title": "Sikka (Ebony & Maple)",
+	"image": "img/collections/featured/01.png",
+	"price":
+		{
+"value": "Rp 1.198.000"
+		},
+	"category": 3, 
+	"url": "https//google.com"
+},
+{
+	"id": 7,
+	"title": "Sikka (Ebony & Maple)",
+	"image": "img/collections/featured/02.png",
+	"price":
+		{
+"value": "Rp 1.198.000"
+		},
+	"category": 3, 
+	"url": "https//google.com"
+},
+{
+	"id": 9,
+	"title": "Way Kambas Limited Edition",
+	"image": "img/collections/featured/03.png",
+	"price":
+		{
+"value": "Rp 1.170.000"
+		},
+	"category": 3, 
+	"url": "https//google.com"
+}
+
+]
+}
