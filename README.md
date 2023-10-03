@@ -1,4 +1,4 @@
-# Matoa
+# matoa
 
 Website for selling luxury watches. I made 2 pages, the main page and the product page.
 The main goal of the project is to practice with CSS.
